@@ -13,6 +13,7 @@
    python bad_gravity.py
    ```
 > **note:** Make sure `bad_apple.mp4` is in the project folder.
+
 > **tip:** By default, the script renders a short preview. Change the `count` variable in the code (line ~17) if you want to render the full video.
 
 ---
